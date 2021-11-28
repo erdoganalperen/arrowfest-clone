@@ -1,0 +1,25 @@
+{
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/Thumbs.db": true,
+        "**/Assembly-CSharp-Editor.csproj": true,
+        "*.csproj": true,
+        "Assembly-CSharp-Editor.csproj": true,
+        "**/*.csproj": true,
+        "**/UnityEngine.UI.Player.csproj": true,
+        "UnityEngine.UI.Player.csproj": true,
+        "Library": true,
+        "Logs": true,
+        "obj/*.*": true,
+        "obj/Debug": true,
+        "**/Debug": true,
+        "Debug": true,
+        "obj": true,
+        "**/*.meta": true
+    },
+    "explorerExclude.backup": null
+}
